@@ -7,7 +7,7 @@ This is perfect for anyone looking to level up their frontend skills! 🚀
 ## 🔗 Live Demo & Source Code
 
 - **Live Demo:** [Moncler UI on Vercel](https://landing-moncler.vercel.app/)
-- **Source Code:** [GitHub Repository](https://github.com/bouzayenilyes/landing-moncler-main.git)
+- **Source Code:** [GitHub Repository](https://github.com/bouzayenilyes/moncler.git)
 
 ## 💻 Technologies Used
 
@@ -33,4 +33,4 @@ This is perfect for anyone looking to level up their frontend skills! 🚀
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bouzayenilyes/landing-moncler-main.git)
+   git clone https://github.com/bouzayenilyes/moncler.git)
